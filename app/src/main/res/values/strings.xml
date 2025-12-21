@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nama Aplikasi -->
+    <string name="app_name">Daftar Tugas</string>
+    
+    <!-- Judul Activity -->
+    <string name="add_task">Tambah Tugas</string>
+    <string name="edit_task">Edit Tugas</string>
+    
+    <!-- Filter Labels -->
+    <string name="filter_all">Semua</string>
+    <string name="filter_active">Aktif</string>
+    <string name="filter_completed">Selesai</string>
+    <string name="filter_all_tasks">Semua Tugas</string>
+    <string name="filter_active_tasks">Tugas Aktif</string>
+    <string name="filter_completed_tasks">Tugas Selesai</string>
+    
+    <!-- Navigasi Bawah -->
+    <string name="nav_all">Semua</string>
+    <string name="nav_active">Aktif</string>
+    <string name="nav_completed">Selesai</string>
+    
+    <!-- Pencarian -->
+    <string name="search_hint">Cari tugas...</string>
+    
+    <!-- Statistik -->
+    <string name="stats_active">Aktif</string>
+    <string name="stats_completed">Selesai</string>
+    <string name="stats_overdue">Terlambat</string>
+    
+    <!-- Hint Input -->
+    <string name="hint_title">Judul Tugas</string>
+    <string name="hint_description">Deskripsi Tugas (opsional)</string>
+    
+    <!-- Prioritas -->
+    <string name="priority_label">Prioritas</string>
+    <string name="priority_high">Tinggi</string>
+    <string name="priority_medium">Sedang</string>
+    <string name="priority_low">Rendah</string>
+    
+    <!-- Kategori -->
+    <string name="category_label">Kategori</string>
+    
+    <!-- Tanggal Jatuh Tempo -->
+    <string name="due_date_label">Tanggal Jatuh Tempo</string>
+    <string name="select_date">Pilih Tanggal</string>
+    <string name="no_due_date">Belum ada tanggal jatuh tempo</string>
+    <string name="clear">Hapus</string>
+    <string name="due_format">Tenggat: %1$s</string>
+    <string name="overdue_format">Terlambat: %1$s</string>
+    
+    <!-- Teks Bantuan -->
+    <string name="helper_text">Tips: Tulis dengan spesifik apa yang ingin Anda capai.</string>
+    
+    <!-- Tombol -->
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="ok">OK</string>
+    <string name="undo">Urungkan</string>
+    
+    <!-- Keadaan Kosong -->
+    <string name="empty_state_message">Belum ada tugas.\nKetuk + untuk menambah tugas baru.</string>
+    
+    <!-- Dialog Hapus -->
+    <string name="delete_task">Hapus Tugas</string>
+    <string name="delete_confirmation_message">Apakah Anda yakin ingin menghapus \"%1$s\"?</string>
+    <string name="task_deleted">Tugas dihapus</string>
+    <string name="task_deleted_undo">\"%1$s\" dihapus</string>
+    
+    <!-- Pesan Error -->
+    <string name="error_title_required">Judul harus diisi</string>
+    
+    <!-- Pesan Sukses -->
+    <string name="task_added">Tugas berhasil ditambahkan</string>
+    <string name="task_updated">Tugas berhasil diperbarui</string>
+    
+    <!-- Content Descriptions -->
+    <string name="cd_add_task">Tambah tugas baru</string>
+    <string name="cd_close">Tutup</string>
+    <string name="cd_save">Simpan tugas</string>
+    <string name="cd_delete">Hapus tugas</string>
+    <string name="cd_checkbox">Tandai tugas selesai</string>
+</resources>

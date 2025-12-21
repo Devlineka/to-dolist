@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Dark Mode -->
+    <color name="primary">#BB86FC</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="primary_light">#E1BEE7</color>
+    
+    <!-- Secondary Colors -->
+    <color name="secondary">#03DAC6</color>
+    <color name="secondary_dark">#018786</color>
+    
+    <!-- Accent -->
+    <color name="accent">#FF7043</color>
+    
+    <!-- Background Colors - Dark Mode -->
+    <color name="background">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="surface">#1E1E1E</color>
+    
+    <!-- Text Colors - Dark Mode -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#808080</color>
+    
+    <!-- Common Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- Chip Colors - Dark Mode -->
+    <color name="chip_selected">#3D2D5A</color>
+    <color name="chip_unselected">#2C2C2C</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFB300</color>
+    <color name="error">#EF5350</color>
+    
+    <!-- Checkbox Tint -->
+    <color name="checkbox_tint">#BB86FC</color>
+    
+    <!-- Divider -->
+    <color name="divider">#333333</color>
+</resources>
