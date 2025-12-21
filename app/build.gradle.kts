@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId = "com.example.todolist"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 30  // ColorOS 11.1 (Android 11)
         versionCode = 1
         versionName = "1.0"
 
