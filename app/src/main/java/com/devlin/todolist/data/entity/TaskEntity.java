@@ -1,4 +1,4 @@
-package com.example.todolist.data.entity;
+package com.devlin.todolist.data.entity;
 
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.todolist"
+    namespace = "com.devlin.todolist"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.todolist"
+        applicationId = "com.devlin.todolist"
         minSdk = 24
         targetSdk = 30  // ColorOS 11.1 (Android 11)
         versionCode = 1

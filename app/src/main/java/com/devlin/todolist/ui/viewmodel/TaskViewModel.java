@@ -1,4 +1,4 @@
-package com.example.todolist.ui.viewmodel;
+package com.devlin.todolist.ui.viewmodel;
 
 import android.app.Application;
 
@@ -9,8 +9,8 @@ import androidx.lifecycle.MediatorLiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.Transformations;
 
-import com.example.todolist.data.entity.TaskEntity;
-import com.example.todolist.data.repository.TaskRepository;
+import com.devlin.todolist.data.entity.TaskEntity;
+import com.devlin.todolist.data.repository.TaskRepository;
 
 import java.util.List;
 

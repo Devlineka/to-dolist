@@ -1,4 +1,4 @@
-package com.example.todolist.ui.adapter;
+package com.devlin.todolist.ui.adapter;
 
 import android.graphics.Color;
 import android.graphics.Paint;
@@ -15,8 +15,8 @@ import androidx.recyclerview.widget.DiffUtil;
 import androidx.recyclerview.widget.ListAdapter;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.todolist.R;
-import com.example.todolist.data.entity.TaskEntity;
+import com.devlin.todolist.R;
+import com.devlin.todolist.data.entity.TaskEntity;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

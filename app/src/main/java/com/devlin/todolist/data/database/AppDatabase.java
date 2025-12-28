@@ -1,4 +1,4 @@
-package com.example.todolist.data.database;
+package com.devlin.todolist.data.database;
 
 import android.content.Context;
 
@@ -8,8 +8,8 @@ import androidx.room.Room;
 import androidx.room.RoomDatabase;
 import androidx.sqlite.db.SupportSQLiteDatabase;
 
-import com.example.todolist.data.dao.TaskDao;
-import com.example.todolist.data.entity.TaskEntity;
+import com.devlin.todolist.data.dao.TaskDao;
+import com.devlin.todolist.data.entity.TaskEntity;
 
 import java.util.ArrayList;
 import java.util.List;

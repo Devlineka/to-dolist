@@ -1,4 +1,4 @@
-package com.example.todolist.ui;
+package com.devlin.todolist.ui;
 
 import android.app.DatePickerDialog;
 import android.content.Intent;
@@ -16,8 +16,8 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-import com.example.todolist.R;
-import com.example.todolist.data.entity.TaskEntity;
+import com.devlin.todolist.R;
+import com.devlin.todolist.data.entity.TaskEntity;
 import com.google.android.material.button.MaterialButton;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
@@ -33,14 +33,14 @@ import java.util.Locale;
  */
 public class AddEditTaskActivity extends AppCompatActivity {
 
-    public static final String EXTRA_TASK_ID = "com.example.todolist.EXTRA_TASK_ID";
-    public static final String EXTRA_TITLE = "com.example.todolist.EXTRA_TITLE";
-    public static final String EXTRA_DESCRIPTION = "com.example.todolist.EXTRA_DESCRIPTION";
-    public static final String EXTRA_IS_COMPLETED = "com.example.todolist.EXTRA_IS_COMPLETED";
-    public static final String EXTRA_CREATED_AT = "com.example.todolist.EXTRA_CREATED_AT";
-    public static final String EXTRA_DUE_DATE = "com.example.todolist.EXTRA_DUE_DATE";
-    public static final String EXTRA_PRIORITY = "com.example.todolist.EXTRA_PRIORITY";
-    public static final String EXTRA_CATEGORY = "com.example.todolist.EXTRA_CATEGORY";
+    public static final String EXTRA_TASK_ID = "com.devlin.todolist.EXTRA_TASK_ID";
+    public static final String EXTRA_TITLE = "com.devlin.todolist.EXTRA_TITLE";
+    public static final String EXTRA_DESCRIPTION = "com.devlin.todolist.EXTRA_DESCRIPTION";
+    public static final String EXTRA_IS_COMPLETED = "com.devlin.todolist.EXTRA_IS_COMPLETED";
+    public static final String EXTRA_CREATED_AT = "com.devlin.todolist.EXTRA_CREATED_AT";
+    public static final String EXTRA_DUE_DATE = "com.devlin.todolist.EXTRA_DUE_DATE";
+    public static final String EXTRA_PRIORITY = "com.devlin.todolist.EXTRA_PRIORITY";
+    public static final String EXTRA_CATEGORY = "com.devlin.todolist.EXTRA_CATEGORY";
 
     private TextInputLayout textInputLayoutTitle;
     private TextInputLayout textInputLayoutDescription;

@@ -1,4 +1,4 @@
-package com.example.todolist.ui;
+package com.devlin.todolist.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,10 +15,10 @@ import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.todolist.R;
-import com.example.todolist.data.entity.TaskEntity;
-import com.example.todolist.ui.adapter.TaskAdapter;
-import com.example.todolist.ui.viewmodel.TaskViewModel;
+import com.devlin.todolist.R;
+import com.devlin.todolist.data.entity.TaskEntity;
+import com.devlin.todolist.ui.adapter.TaskAdapter;
+import com.devlin.todolist.ui.viewmodel.TaskViewModel;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;

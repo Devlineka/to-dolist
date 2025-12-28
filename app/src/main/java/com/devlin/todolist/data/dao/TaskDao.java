@@ -1,4 +1,4 @@
-package com.example.todolist.data.dao;
+package com.devlin.todolist.data.dao;
 
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
@@ -8,7 +8,7 @@ import androidx.room.OnConflictStrategy;
 import androidx.room.Query;
 import androidx.room.Update;
 
-import com.example.todolist.data.entity.TaskEntity;
+import com.devlin.todolist.data.entity.TaskEntity;
 
 import java.util.List;
 
